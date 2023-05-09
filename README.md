@@ -3,7 +3,9 @@ Pre-configured settings for CHIRP reprogramming tool to tune a Baofeng UV-5R (an
 
 The 128 memory slots of the UV-5R are utilized for 8 PMR channels and 15 subchannels each of the 8 channels.
 
-The setting file is the affiliated file `pmr_UV-5R.csv`. You can import it in the CHIRP.
+## Setting files
+* The channel settings are in file `pmr_UV-5R.csv`. You can import it in the CHIRP. 
+* Also, there's a file `pmr_UV-5R.img`, which contains channel settings **AND** my other radio settings. This file is for those people who just want their baofen to work as PMR without touching any of the settings themself. Most of the settings are the default, but few are tuned a bit, like lowered power-saving.
 
 ## subchannels i.e. tone i.e. CTCSS 
 If you are not familiar with PMR, here's some basic information about subchannels. 
