@@ -1,5 +1,5 @@
 # PMR446-channels-for-CHIRP
-Pre-configured settings for (CHIRP)[https://trac.chirp.danplanet.com/chirp_next/next-20230509/] reprogramming tool to tune a Baofeng UV-5R (and similiar) radios into PMR446 frequensies.
+Pre-configured settings for [CHIRP](https://trac.chirp.danplanet.com/chirp_next/next-20230509/) reprogramming tool to tune a Baofeng UV-5R (and similiar) radios into PMR446 frequensies.
 
 The 128 memory slots of the UV-5R are utilized for 8 PMR channels and 15 subchannels each of the 8 channels.
 
